@@ -51,9 +51,9 @@ Locally there is a *Makefile* to help start and stop the Elasticsearch (ES) dock
 
 ## Tutorial and Videos
 
-Attached are some PDF's shared to read before even going through the main documentation. This includes [Introducing Elasticsearch](./introducing-elasticsearch-slides.pdf) and [executing crud operations]().	
+Attached are some PDF's shared to read before even going through the main documentation. This includes [Introducing Elasticsearch](./introducing-elasticsearch-slides.pdf) and [executing crud operations](./executing-crud-operations-using-the-elasticsearch-apis-slides.pdf).	
 
-Add a **chrome plugin** tpo help you do ElastiSearch stuff called [ElasticSearch Head](https://chrome.google.com/webstore/detail/elasticsearch-head/ffmkiejjmecolpfloofpjologoblkegm) to help visualise your Elasticsearch instance, to see indexes, create structured queries and lots more
+Add a **chrome plugin** to help you do ElastiSearch stuff called [ElasticSearch Head](https://chrome.google.com/webstore/detail/elasticsearch-head/ffmkiejjmecolpfloofpjologoblkegm) to help visualise your Elasticsearch instance, to see indexes, create structured queries and lots more
 
 ![image-20210930160154272](/Users/farahvi/Dev/ElasticSearchExercise/images/elastic-search-head.png)
 
