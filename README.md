@@ -49,6 +49,11 @@ Locally there is a *Makefile* to help start and stop the Elasticsearch (ES) dock
 
    
 
+## Tutorial and Videos
+
+1. [Getting started](https://www.elastic.co/guide/en/elasticsearch/reference/current/getting-started.html) had some realy good examples to run with curl and I found to be an easy exercise to jump into the details
+2. ...
+
 ## Documentation and references
 
 ### Docker setup
