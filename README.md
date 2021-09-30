@@ -51,6 +51,8 @@ Locally there is a *Makefile* to help start and stop the Elasticsearch (ES) dock
 
 ## Tutorial and Videos
 
+Attached are some PDF's shared to read before even going through the main documentation. This includes [Introducing Elasticsearch](./introducing-elasticsearch-slides.pdf) and [executing crud operations]().	
+
 1. [Getting started](https://www.elastic.co/guide/en/elasticsearch/reference/current/getting-started.html) had some realy good examples to run with curl and I found to be an easy exercise to jump into the details
 2. [Configuring](https://www.elastic.co/guide/en/elasticsearch/reference/current/important-settings.html) important settings through CURL and [system configuration](https://www.elastic.co/guide/en/elasticsearch/reference/current/system-config.html)
    - [Secure settings](https://www.elastic.co/guide/en/elasticsearch/reference/current/secure-settings.html) 
