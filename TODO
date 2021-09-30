@@ -1,4 +1,6 @@
-☐ Setup Docker Compose utilising a multi-node cluster @high
-☐ Document some details about investigation and cool video
-☐ Create a make file to up and down details
+✔ Setup Docker Compose utilising a multi-node cluster @high @done(21-09-30 12:34)
+☐ Document some details about investigation and cool videos
+    ✔ Setting up docker @done(21-09-30 12:33)
+    ✔ Link tutorials on es usage @done(21-09-30 12:34)
+✔ Create a make file to up and down details @done(21-09-30 12:34)
 ☐ Experiment with some of the setup and share with the rest of the team
