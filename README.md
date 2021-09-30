@@ -55,7 +55,7 @@ Attached are some PDF's shared to read before even going through the main docume
 
 Add a **chrome plugin** to help you do ElastiSearch stuff called [ElasticSearch Head](https://chrome.google.com/webstore/detail/elasticsearch-head/ffmkiejjmecolpfloofpjologoblkegm) to help visualise your Elasticsearch instance, to see indexes, create structured queries and lots more
 
-![image-20210930160154272](/Users/farahvi/Dev/ElasticSearchExercise/images/elastic-search-head.png)
+![image-20210930160154272](./images/elastic-search-head.png)
 
 1. [Getting started](https://www.elastic.co/guide/en/elasticsearch/reference/current/getting-started.html) had some realy good examples to run with curl and I found to be an easy exercise to jump into the details
 2. [Configuring](https://www.elastic.co/guide/en/elasticsearch/reference/current/important-settings.html) important settings through CURL and [system configuration](https://www.elastic.co/guide/en/elasticsearch/reference/current/system-config.html)
