@@ -4,7 +4,7 @@ The reason this is in this space is for experimenting with Elastic Search for Fi
 
 ## Environment
 
-Locally there is a Makefile to help start and stop the ES docker service. This assumes docker is setup on your machine.
+Locally there is a *Makefile* to help start and stop the Elasticsearch (ES) docker service. This assumes docker is setup on your machine. The version of ES utilised is **7.15**, and for more information on whats new checkout [release highlights](https://www.elastic.co/guide/en/elasticsearch/reference/current/release-highlights.html).
 
 1. **Start** **multi node** Elastic on port 9200
 
@@ -54,6 +54,8 @@ Locally there is a Makefile to help start and stop the ES docker service. This a
 ### Docker setup
 
 Really good clear link for setting up docker @ https://www.elastic.co/guide/en/elasticsearch/reference/current/docker.html. There is fantastic instructions for configuring development images, and most importantly **production** configuration including icreasing nodes, memory and many other things to make this more resillient.
+
+More advanced topics about configuring docker to secure, encrypt and other can be found @ https://www.elastic.co/guide/en/elasticsearch/reference/current/settings.html
 
 
 
