@@ -18,7 +18,7 @@ Locally there is a *Makefile* to help start and stop the Elasticsearch (ES) dock
    make es-multi-down
    ```
 
-3. Start a single node using docker
+3. **Start a single node** using docker
 
    ```makefile
    make es-single-up
@@ -52,7 +52,17 @@ Locally there is a *Makefile* to help start and stop the Elasticsearch (ES) dock
 ## Tutorial and Videos
 
 1. [Getting started](https://www.elastic.co/guide/en/elasticsearch/reference/current/getting-started.html) had some realy good examples to run with curl and I found to be an easy exercise to jump into the details
-2. ...
+2. [Configuring](https://www.elastic.co/guide/en/elasticsearch/reference/current/important-settings.html) important settings through CURL and [system configuration](https://www.elastic.co/guide/en/elasticsearch/reference/current/system-config.html)
+   - [Secure settings](https://www.elastic.co/guide/en/elasticsearch/reference/current/secure-settings.html) 
+   - [Audit settings](https://www.elastic.co/guide/en/elasticsearch/reference/current/auditing-settings.html)
+   - [Circuit breaker](https://www.elastic.co/guide/en/elasticsearch/reference/current/circuit-breaker.html) settings to prevent out of memory issues
+   - [Shard or Cluster-level](https://www.elastic.co/guide/en/elasticsearch/reference/current/modules-cluster.html) allocation settings
+   - [Logging settings](https://www.elastic.co/guide/en/elasticsearch/reference/current/logging.html)
+   - [Nodes by role settings](https://www.elastic.co/guide/en/elasticsearch/reference/current/modules-node.html)
+   - [Network settings](https://www.elastic.co/guide/en/elasticsearch/reference/current/modules-network.html)
+   - [Search settings](https://www.elastic.co/guide/en/elasticsearch/reference/current/search-settings.html)
+   - [Security settings](https://www.elastic.co/guide/en/elasticsearch/reference/current/security-settings.html)
+3. ES needs to be [upgraded](https://www.elastic.co/guide/en/elasticsearch/reference/current/setup-upgrade.html) from time to time and there are rolling, Full cluster or reindex options available
 
 ## Documentation and references
 
