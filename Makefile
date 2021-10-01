@@ -13,3 +13,7 @@ es-single-up:
 es-test:
 	echo "Checking nodes..."
 	curl "http://localhost:9200/_cat/nodes?v=true"
+
+es-health:
+	echo "Checking health and cluster stats..."
+	curl "http://localhost:9200/_cluster/health?pretty"
