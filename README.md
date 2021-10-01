@@ -34,6 +34,10 @@ Elasticsearch(ES) experimentation, ideas and quick wins to go through setting up
 
 ![image-20210930234051072](./images/index-api.png)
 
+![image-20211001090145286](./images/shards.png)
+
+![image-20211001090329331](./images/primary-replica-shards.png)
+
 ![image-20210930234207852](./images/cluster-api.png)
 
 ![image-20210930235115977](./images/query-dsl.png)
@@ -168,5 +172,6 @@ More advanced topics about **configuring docker** to secure, encrypt and other c
 - [ ] https://www.youtube.com/watch?v=PpX7J-G2PEo TODO
 - [ ] https://www.youtube.com/watch?v=gQ1c1uILyKI TODO
 - [ ] https://www.youtube.com/watch?v=PpX7J-G2PEo TODO
-- [ ] 
+- [ ] https://www.youtube.com/watch?v=Yc-G13lEbpc TODO
+- [ ] https://www.youtube.com/watch?v=DRQJHOOstY0 TODO
 - [ ] ...
