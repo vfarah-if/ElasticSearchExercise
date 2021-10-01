@@ -38,6 +38,8 @@ Elasticsearch(ES) experimentation, ideas and quick wins to go through setting up
 
 ![image-20211001090329331](./images/primary-replica-shards.png)
 
+![image-20211001093847760](./images/configuring-shards.png)
+
 ![image-20210930234207852](./images/cluster-api.png)
 
 ![image-20210930235115977](./images/query-dsl.png)
