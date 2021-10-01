@@ -169,11 +169,12 @@ More advanced topics about **configuring docker** to secure, encrypt and other c
 - [ ] https://www.youtube.com/watch?v=C3tlMqaNSaI tutorial for beginners and has a linked extensive Udemy course
 - [ ] https://www.youtube.com/watch?v=SOTFnRezIH0 is a deep dive into AWS ES
 - [ ] https://www.youtube.com/watch?v=c9O5_a50aOQ ES does and don'ts
-- [ ] https://www.youtube.com/watch?v=1EnvkPf7t6Y is a quick overview of all ES concepts summarised above for quick impact as images
-- [ ] https://www.youtube.com/watch?v=CeGtqouT8eA TODO
+- [ ] https://www.youtube.com/watch?v=CeGtqouT8eA How Google searches one document among Billions of documents quickly?
 - [ ] https://www.youtube.com/watch?v=PpX7J-G2PEo TODO
 - [ ] https://www.youtube.com/watch?v=gQ1c1uILyKI TODO
 - [ ] https://www.youtube.com/watch?v=PpX7J-G2PEo TODO
 - [ ] https://www.youtube.com/watch?v=Yc-G13lEbpc TODO
 - [ ] https://www.youtube.com/watch?v=DRQJHOOstY0 TODO
+- [ ] https://www.youtube.com/watch?v=1EnvkPf7t6Y is a quick overview of all ES concepts summarised above for quick impact as images
+- [ ] 
 - [ ] ...
