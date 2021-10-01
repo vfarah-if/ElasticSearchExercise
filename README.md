@@ -52,7 +52,7 @@ Elasticsearch(ES) experimentation, ideas and quick wins to go through setting up
 
 ## Environment and playing with ES
 
-Locally there is a *Makefile* to help start and stop the Elasticsearch (ES) docker service. This assumes docker is setup on your machine. The version of ES utilised is **7.15**, and for more information on whats new checkout [release highlights](https://www.elastic.co/guide/en/elasticsearch/reference/current/release-highlights.html).
+Locally there is a _Makefile_ to help start and stop the Elasticsearch (ES) docker service. This assumes docker is setup on your machine. The version of ES utilised is **7.15**, and for more information on whats new checkout [release highlights](https://www.elastic.co/guide/en/elasticsearch/reference/current/release-highlights.html).
 
 1. **Start** **multi node** Elastic on port 9200
 
@@ -127,7 +127,7 @@ Locally there is a *Makefile* to help start and stop the Elasticsearch (ES) dock
 
 ## Detailed Tutorial Links
 
-Attached are some PDF's shared to read before even going through the main documentation. This includes [Introducing Elasticsearch](./introducing-elasticsearch-slides.pdf) and [executing crud operations](./executing-crud-operations-using-the-elasticsearch-apis-slides.pdf).	
+Attached are some PDF's shared to read before even going through the main documentation. This includes [Introducing Elasticsearch](./introducing-elasticsearch-slides.pdf) and [executing crud operations](./executing-crud-operations-using-the-elasticsearch-apis-slides.pdf).
 
 Add a **chrome plugin** to help you do ElastiSearch stuff called [ElasticSearch Head](https://chrome.google.com/webstore/detail/elasticsearch-head/ffmkiejjmecolpfloofpjologoblkegm) to help visualise your Elasticsearch instance, to see indexes, create structured queries and lots more
 
@@ -135,7 +135,7 @@ Add a **chrome plugin** to help you do ElastiSearch stuff called [ElasticSearch 
 
 1. [Getting started](https://www.elastic.co/guide/en/elasticsearch/reference/current/getting-started.html) had some realy good examples to run with curl and I found to be an easy exercise to jump into the details
 2. [Configuring](https://www.elastic.co/guide/en/elasticsearch/reference/current/important-settings.html) important settings through CURL and [system configuration](https://www.elastic.co/guide/en/elasticsearch/reference/current/system-config.html)
-   - [Secure settings](https://www.elastic.co/guide/en/elasticsearch/reference/current/secure-settings.html) 
+   - [Secure settings](https://www.elastic.co/guide/en/elasticsearch/reference/current/secure-settings.html)
    - [Audit settings](https://www.elastic.co/guide/en/elasticsearch/reference/current/auditing-settings.html)
    - [Circuit breaker](https://www.elastic.co/guide/en/elasticsearch/reference/current/circuit-breaker.html) settings to prevent out of memory issues
    - [Shard or Cluster-level](https://www.elastic.co/guide/en/elasticsearch/reference/current/modules-cluster.html) allocation settings
@@ -154,21 +154,19 @@ Add a **chrome plugin** to help you do ElastiSearch stuff called [ElasticSearch 
 
 ### Docker setup
 
-Really good clear link for setting up docker @ https://www.elastic.co/guide/en/elasticsearch/reference/current/docker.html. There is fantastic instructions for configuring development images, and most importantly **production** configuration including icreasing nodes, memory and many other things to make this more resillient.
+Really good clear link for setting up docker @ https://www.elastic.co/guide/en/elasticsearch/reference/current/docker.html. There is fantastic instructions for configuring development images, and most importantly **production** configuration including increasing nodes, memory and many other things to make this more resillient.
 
 More advanced topics about **configuring docker** to secure, encrypt and other can be found @ https://www.elastic.co/guide/en/elasticsearch/reference/current/settings.html
 
 ### References and videos
 
-- [ ] https://www.youtube.com/watch?v=C3tlMqaNSaI tutorial for beginners
+- [ ] https://www.youtube.com/watch?v=C3tlMqaNSaI tutorial for beginners and has a linked extensive Udemy course
 - [ ] https://www.youtube.com/watch?v=SOTFnRezIH0 is a deep dive into AWS ES
 - [ ] https://www.youtube.com/watch?v=c9O5_a50aOQ ES does and don'ts
 - [ ] https://www.youtube.com/watch?v=1EnvkPf7t6Y is a quick overview of all ES concepts summarised above for quick impact as images
+- [ ] https://www.youtube.com/watch?v=CeGtqouT8eA TODO
+- [ ] https://www.youtube.com/watch?v=PpX7J-G2PEo TODO
+- [ ] https://www.youtube.com/watch?v=gQ1c1uILyKI TODO
+- [ ] https://www.youtube.com/watch?v=PpX7J-G2PEo TODO
+- [ ] 
 - [ ] ...
-
-
-
-
-
-
-
