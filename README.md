@@ -133,7 +133,7 @@ Locally there is a _Makefile_ to help start and stop the Elasticsearch (ES) dock
 
 ## Detailed Tutorial Links
 
-Attached are some PDF's shared to read before even going through the main documentation. This includes [Introducing Elasticsearch](./introducing-elasticsearch-slides.pdf) ,[executing crud operations](./executing-crud-operations-using-the-elasticsearch-apis-slides.pdf) and [executing search requests using es query dsl](./executing-search-requests-using-elasticsearch-query-dsl-slides.pdf).
+Attached are some PDF's shared to read before even going through the main documentation. This includes [Introducing Elasticsearch](./introducing-elasticsearch-slides.pdf) ,[executing crud operations](./executing-crud-operations-using-the-elasticsearch-apis-slides.pdf) and [executing search requests using es query dsl](./executing-search-requests-using-elasticsearch-query-dsl-slides.pdf). Associated is a [text file](./ElasticsearchCommands.txt) that can be a good example of the working examples that can be used to play with the generation of ES types, indexes and documents to visualise how this works.
 
 Add a **chrome plugin** to help you do ElastiSearch stuff called [ElasticSearch Head](https://chrome.google.com/webstore/detail/elasticsearch-head/ffmkiejjmecolpfloofpjologoblkegm) to help visualise your Elasticsearch instance, to see indexes, create structured queries and lots more
 
@@ -169,7 +169,7 @@ More advanced topics about **configuring docker** to secure, encrypt and other c
 - [ ] https://www.youtube.com/watch?v=C3tlMqaNSaI tutorial for beginners and has a linked extensive Udemy course
 - [ ] https://www.youtube.com/watch?v=SOTFnRezIH0 is a deep dive into AWS ES
 - [ ] https://www.youtube.com/watch?v=c9O5_a50aOQ ES does and don'ts
-- [ ] https://www.youtube.com/watch?v=CeGtqouT8eA How Google searches one document among Billions of documents quickly?
+- [ ] https://www.youtube.com/watch?v=CeGtqouT8eA How Google searches one document among Billions of documents quickly and is a good video for exploring inverted indexes and how google would web crawl and index sites storing relevent data about the content
 - [ ] https://www.youtube.com/watch?v=PpX7J-G2PEo TODO
 - [ ] https://www.youtube.com/watch?v=gQ1c1uILyKI TODO
 - [ ] https://www.youtube.com/watch?v=PpX7J-G2PEo TODO
