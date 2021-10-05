@@ -147,7 +147,6 @@ Add a **chrome plugin** to help you do ElastiSearch stuff called [ElasticSearch 
    - [Shard or Cluster-level](https://www.elastic.co/guide/en/elasticsearch/reference/current/modules-cluster.html) allocation settings
    - [Logging settings](https://www.elastic.co/guide/en/elasticsearch/reference/current/logging.html)
    - [Nodes by role settings](https://www.elastic.co/guide/en/elasticsearch/reference/current/modules-node.html)
-   - \
    - [Network settings](https://www.elastic.co/guide/en/elasticsearch/reference/current/modules-network.html)
    - [Search settings](https://www.elastic.co/guide/en/elasticsearch/reference/current/search-settings.html)
    - [Security settings](https://www.elastic.co/guide/en/elasticsearch/reference/current/security-settings.html)
