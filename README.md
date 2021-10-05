@@ -1,6 +1,6 @@
 # Introduction
 
-Elasticsearch(ES) experimentation, ideas and quick wins to go through setting up ES with optimisations or quick ways to learn how to use it.
+Elasticsearch(ES) experimentation, ideas and quick wins to go through setting up ES with optimisations or quick ways to learn how to use it. The inspiration for this based around a fun developer week the DIT Government allows collaboration time for technical/non-technical discussions and this was a big subject to cover, but I really felt it is worth drilling into more detail. [Here](./Firebreak presentation - Elasticsearch.pptx) is a slide deck covering high level concepts. Below is also a high level journey of important ideas, linked to more detail videos, lots of explortory stuff you can do yourself.
 
 ![image-20211001004722442](./images/basics.png)
 
@@ -190,4 +190,4 @@ More advanced topics about **configuring docker** to secure, encrypt and other c
 - [ ] https://www.youtube.com/watch?v=Yc-G13lEbpc **TODO** Common Elastic Stack & Elasticsearch Architectures
 - [ ] https://www.youtube.com/watch?v=DRQJHOOstY0 **TODO** **Keeping Up with the ELK Stack: Elasticsearch, Kibana, Beats, and Logstash**
 - [ ] https://www.youtube.com/watch?v=1EnvkPf7t6Y is a quick overview of all ES concepts summarised above for quick impact as images
-- [ ] Anyone with a Pluralsight, https://www.pluralsight.com/courses/elasticsearch-analyzing-data
+- [ ] Anyone with a Pluralsight **TODO**, https://www.pluralsight.com/courses/elasticsearch-analyzing-data
