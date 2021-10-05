@@ -147,6 +147,7 @@ Add a **chrome plugin** to help you do ElastiSearch stuff called [ElasticSearch 
    - [Shard or Cluster-level](https://www.elastic.co/guide/en/elasticsearch/reference/current/modules-cluster.html) allocation settings
    - [Logging settings](https://www.elastic.co/guide/en/elasticsearch/reference/current/logging.html)
    - [Nodes by role settings](https://www.elastic.co/guide/en/elasticsearch/reference/current/modules-node.html)
+   - \
    - [Network settings](https://www.elastic.co/guide/en/elasticsearch/reference/current/modules-network.html)
    - [Search settings](https://www.elastic.co/guide/en/elasticsearch/reference/current/search-settings.html)
    - [Security settings](https://www.elastic.co/guide/en/elasticsearch/reference/current/security-settings.html)
@@ -155,6 +156,20 @@ Add a **chrome plugin** to help you do ElastiSearch stuff called [ElasticSearch 
 5. [Query DSL](https://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl.html) or Abstract Tree of Queries
 6. [Search Aggregations](https://www.elastic.co/guide/en/elasticsearch/reference/current/search-aggregations.html) summarizes your data as metrics, statistics, or other analytics
 7. [SQL X-Pack](https://www.elastic.co/guide/en/elasticsearch/reference/current/xpack-sql.html) includes a SQL feature to execute SQL queries against Elasticsearch indices and return results in tabular format (Need to understand more)
+
+## Elasticsearch Client libraries
+
+### Python
+
+- Python Official Elastic Search Client
+  - https://elasticsearch-py.readthedocs.io/en/v7.15.0/
+  - https://github.com/elastic/elasticsearch-py
+
+### Javascript
+
+- Official Elastic Search Client
+  - https://www.elastic.co/guide/en/elasticsearch/client/javascript-api/current/index.html
+  - https://github.com/elastic/elasticsearch-js
 
 ## Documentation and references
 
@@ -170,11 +185,10 @@ More advanced topics about **configuring docker** to secure, encrypt and other c
 - [ ] https://www.youtube.com/watch?v=SOTFnRezIH0 is a deep dive into AWS ES
 - [ ] https://www.youtube.com/watch?v=c9O5_a50aOQ ES does and don'ts
 - [ ] https://www.youtube.com/watch?v=CeGtqouT8eA How Google searches one document among Billions of documents quickly and is a good video for exploring inverted indexes and how google would web crawl and index sites storing relevent data about the content
-- [ ] https://www.youtube.com/watch?v=PpX7J-G2PEo TODO
-- [ ] https://www.youtube.com/watch?v=gQ1c1uILyKI TODO
-- [ ] https://www.youtube.com/watch?v=PpX7J-G2PEo TODO
-- [ ] https://www.youtube.com/watch?v=Yc-G13lEbpc TODO
-- [ ] https://www.youtube.com/watch?v=DRQJHOOstY0 TODO
+- [ ] https://www.youtube.com/watch?v=PpX7J-G2PEo **TODO** Elasticsearch from the bottom up
+- [ ] https://www.youtube.com/watch?v=gQ1c1uILyKI **TODO** Kibana Tutorial important for Elasticsearch and Elk
+- [ ] https://www.youtube.com/watch?v=PpX7J-G2PEo **TODO** Elasticsearch from the bottom up
+- [ ] https://www.youtube.com/watch?v=Yc-G13lEbpc **TODO** Common Elastic Stack & Elasticsearch Architectures
+- [ ] https://www.youtube.com/watch?v=DRQJHOOstY0 **TODO** **Keeping Up with the ELK Stack: Elasticsearch, Kibana, Beats, and Logstash**
 - [ ] https://www.youtube.com/watch?v=1EnvkPf7t6Y is a quick overview of all ES concepts summarised above for quick impact as images
-- [ ] 
-- [ ] ...
+- [ ] Anyone with a Pluralsight, https://www.pluralsight.com/courses/elasticsearch-analyzing-data
